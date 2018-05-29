@@ -22,3 +22,4 @@ echo 'You got to trust me on this, I saved the world'
 Is this really that easy???
 I love github and gitbook!!!
 
+可以使用UTF8中文嗎？
